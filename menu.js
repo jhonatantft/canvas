@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const base = 'src/';
-const pagePreFix = 'http://whxaxes.github.io/canvas-test/';
+const pagePreFix = 'https://jhonatantft.github.io/canvas/';
 const sourcePrefix = 'https://github.com/jhonatantft/canvas/tree/master/';
 
 const files = fs.readdirSync(base);
